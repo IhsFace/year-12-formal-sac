@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\bin\Debug\net8.0-windows\year-12-formal-sac.exe
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\bin\Debug\net8.0-windows\year-12-formal-sac.deps.json
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\bin\Debug\net8.0-windows\year-12-formal-sac.runtimeconfig.json
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\bin\Debug\net8.0-windows\year-12-formal-sac.dll
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\bin\Debug\net8.0-windows\year-12-formal-sac.pdb
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year_12_formal_sac.Form1.resources
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.dll
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\refint\year-12-formal-sac.dll
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.pdb
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\year-12-formal-sac.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\year-12-formal-sac\year-12-formal-sac\year-12-formal-sac\obj\Debug\net8.0-windows\ref\year-12-formal-sac.dll

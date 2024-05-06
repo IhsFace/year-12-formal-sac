@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Records>
+  <GUEST>
+    <GuestName>Todd Gakk</GuestName>
+    <NumTickets>2</NumTickets>
+    <AmountPaid>95</AmountPaid>
+    <DietaryRequirements>Yes</DietaryRequirements>
+  </GUEST>
+</Records>
